@@ -195,6 +195,30 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="thisisdara--mhr-cfw-go"></div>
+
+### ThisIsDara--mhr-cfw-go
+
+🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
+
+---
+
+<div id="davudsedft--purvpn"></div>
+
+### davudsedft--purvpn
+
+🔗 [source](https://github.com/davudsedft/purvpn) – [<code><small>11.9</small></code>](https://github.com/davudsedft/purvpn/releases/tag/11.9)
+
+| File | Size | Download |
+|------|------|----------|
+| `purvpn-11.9-release.apk` | 80.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/purvpn-11.9-release.apk) |
+
+---
+
 <div id="masterking32--masterdnsvpn"></div>
 
 ### masterking32--MasterDnsVPN
