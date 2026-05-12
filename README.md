@@ -265,10 +265,8 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `Hiddify-Android-universal.apk (part 1 of 4)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.001) |
-| `Hiddify-Android-universal.apk (part 2 of 4)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.002) |
-| `Hiddify-Android-universal.apk (part 3 of 4)` | 90.0 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.003) |
-| `Hiddify-Android-universal.apk (part 4 of 4)` | 53.8 MB | [⬇️ Download (Part 4)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.004) |
+| `Hiddify-Android-arm64.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm64.apk.001) |
+| `Hiddify-Android-arm64.apk (part 2 of 2)` | 23.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm64.apk.002) |
 | `Hiddify-Windows-Setup-x64.exe` | 34.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Setup-x64.exe) |
 
 ---
