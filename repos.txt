@@ -33,3 +33,5 @@ Happ-proxy/happ-desktop|setup-Happ
 
 masterking32/MasterDnsVPN|MasterDnsVPN_Client_Windows_AMD64
 
+ThisIsDara/mhr-cfw-go|mhr-cfw-go-windows-amd64
+
