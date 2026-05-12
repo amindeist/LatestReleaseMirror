@@ -207,6 +207,19 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="anonvector--slipnet"></div>
+
+### anonvector--SlipNet
+
+🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `SlipNet-v2.5.3-lite-release-universal.apk` | 22.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-universal.apk) |
+| `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-windows-amd64.exe) |
+
+---
+
 <div id="davudsedft--purvpn"></div>
 
 ### davudsedft--purvpn
