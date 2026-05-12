@@ -38,3 +38,5 @@ ThisIsDara/mhr-cfw-go|mhr-cfw-go-windows-amd64
 Psiphon-Inc/psiphon-windows|\.zip
 
 davudsedft/purvpn|purvpn-
+
+anonvector/SlipNet|slipnet-windows-amd64|SlipNet-v2.5.3-lite-release-universal
