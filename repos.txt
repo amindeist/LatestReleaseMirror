@@ -37,3 +37,4 @@ ThisIsDara/mhr-cfw-go|mhr-cfw-go-windows-amd64
 
 Psiphon-Inc/psiphon-windows|\.zip
 
+davudsedft/purvpn|purvpn-
