@@ -47,4 +47,6 @@ throneproj/Throne|Throne-1.1.2-windows64-installer
 
 DigneZzZ/v2raytun|v2RayTun_universal|v2RayTun_Setup
 
+hiddify/hiddify-app|Hiddify-Android-universal|Hiddify-Windows-Setup-x64
+
 
