@@ -157,6 +157,19 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayn"></div>
+
+### 2dust--v2rayN
+
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.21.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 28.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+
+---
+
 <div id="2dust--v2rayng"></div>
 
 ### 2dust--v2rayNG
@@ -166,6 +179,18 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `v2rayNG_2.1.7_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_arm64-v8a.apk) |
+
+---
+
+<div id="dignezzz--v2raytun"></div>
+
+### DigneZzZ--v2raytun
+
+🔗 [source](https://github.com/DigneZzZ/v2raytun) – [<code><small>5.23.73</small></code>](https://github.com/DigneZzZ/v2raytun/releases/tag/5.23.73)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2RayTun_universal.apk` | 94.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/DigneZzZ/v2raytun/v2RayTun_universal.apk) |
 
 ---
 
@@ -232,6 +257,22 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="hiddify--hiddify-app"></div>
+
+### hiddify--hiddify-app
+
+🔗 [source](https://github.com/hiddify/hiddify-app) – [<code><small>v4.1.1</small></code>](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `Hiddify-Android-universal.apk (part 1 of 4)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.001) |
+| `Hiddify-Android-universal.apk (part 2 of 4)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.002) |
+| `Hiddify-Android-universal.apk (part 3 of 4)` | 90.0 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.003) |
+| `Hiddify-Android-universal.apk (part 4 of 4)` | 53.8 MB | [⬇️ Download (Part 4)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.004) |
+| `Hiddify-Windows-Setup-x64.exe` | 34.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Setup-x64.exe) |
+
+---
+
 <div id="masterking32--masterdnsvpn"></div>
 
 ### masterking32--MasterDnsVPN
@@ -255,4 +296,16 @@ sha256sum FILE_NAME
 | `mhrv-rs-android-arm64-v8a-v1.9.22.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.22.apk) |
 | `mhrv-rs-android-universal-v1.9.22.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.22.apk) |
 | `mhrv-rs-windows-amd64.zip` | 7.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+
+---
+
+<div id="throneproj--throne"></div>
+
+### throneproj--Throne
+
+🔗 [source](https://github.com/throneproj/Throne) – [<code><small>1.1.2</small></code>](https://github.com/throneproj/Throne/releases/tag/1.1.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `Throne-1.1.2-windows64-installer.exe` | 40.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.2-windows64-installer.exe) |
 <!-- RELEASES_END -->
