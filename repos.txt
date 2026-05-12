@@ -43,7 +43,7 @@ anonvector/SlipNet|slipnet-windows-amd64|SlipNet-v2.5.3-lite-release-universal
 
 throneproj/Throne|Throne-1.1.2-windows64-installer
 
-
+2dust/v2rayN|v2rayN-windows-64-desktop
 
 
 
