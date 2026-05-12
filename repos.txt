@@ -45,6 +45,6 @@ throneproj/Throne|Throne-1.1.2-windows64-installer
 
 2dust/v2rayN|v2rayN-windows-64-desktop
 
-
+DigneZzZ/v2raytun|v2RayTun_universal|v2RayTun_Setup
 
 
