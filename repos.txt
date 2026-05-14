@@ -52,3 +52,5 @@ hiddify/hiddify-app|Hiddify-Android-arm64|Hiddify-Windows-Setup-x64
 KaringX/karing|karing_1.2.19.2203_android_arm|karing_1.2.19.2203_windows_x64
 
 ThisIsDara/mhr-cfw-go|mhr-cfw-go-windows-amd64
+
+maattyi/MasterHttpRelayVpnGUI|MasterRelayVPN-
