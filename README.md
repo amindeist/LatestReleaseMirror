@@ -224,7 +224,7 @@ sha256sum FILE_NAME
 
 ### ThisIsDara--mhr-cfw-go
 
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
+🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.4.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.4.0)
 
 | File | Size | Download |
 |------|------|----------|
@@ -268,6 +268,18 @@ sha256sum FILE_NAME
 | `Hiddify-Android-arm64.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm64.apk.001) |
 | `Hiddify-Android-arm64.apk (part 2 of 2)` | 23.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm64.apk.002) |
 | `Hiddify-Windows-Setup-x64.exe` | 34.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Setup-x64.exe) |
+
+---
+
+<div id="maattyi--masterhttprelayvpngui"></div>
+
+### maattyi--MasterHttpRelayVpnGUI
+
+🔗 [source](https://github.com/maattyi/MasterHttpRelayVpnGUI) – [<code><small>tag2</small></code>](https://github.com/maattyi/MasterHttpRelayVpnGUI/releases/tag/tag2)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterRelayVPN-v1.1.0.zip` | 75.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/maattyi/MasterHttpRelayVpnGUI/MasterRelayVPN-v1.1.0.zip) |
 
 ---
 
