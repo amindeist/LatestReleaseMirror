@@ -2,6 +2,6 @@
   "tag": "2.1.7",
   "status": "stable",
   "published_at": "2026-05-10T06:23:46Z",
-  "filter_pattern": "v2rayNG_2.1.7_arm64-v8a",
-  "updated_at": "2026-05-12T06:34:40Z"
+  "filter_pattern": ".apk",
+  "updated_at": "2026-05-15T17:43:25Z"
 }
