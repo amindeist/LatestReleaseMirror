@@ -55,4 +55,4 @@ ThisIsDara/mhr-cfw-go|mhr-cfw-go-windows-amd64
 
 maattyi/MasterHttpRelayVpnGUI|MasterRelayVPN-
 
-telegramdesktop/tdesktop|Windows 64 bit
+telegramdesktop/tdesktop|tsetup-x64
