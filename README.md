@@ -203,6 +203,23 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="gfw-knocker--mahsang"></div>
+
+### GFW-knocker--MahsaNG
+
+🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v16-(1405-2-25)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v16-(1405-2-25))
+
+| File | Size | Download |
+|------|------|----------|
+| `MahsaNG_16_arm64-v8a.apk` | 59.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_arm64-v8a.apk) |
+| `MahsaNG_16_armeabi-v7a.apk` | 60.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_armeabi-v7a.apk) |
+| `MahsaNG_16_universal.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_universal.apk.001) |
+| `MahsaNG_16_universal.apk (part 2 of 2)` | 82.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_universal.apk.002) |
+| `MahsaNG_16_x86.apk` | 63.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86.apk) |
+| `MahsaNG_16_x86_64.apk` | 62.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86_64.apk) |
+
+---
+
 <div id="happ-proxy--happ-android"></div>
 
 ### Happ-proxy--happ-android
@@ -320,12 +337,12 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.26</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.26)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.28</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.28)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.26.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.26.apk) |
-| `mhrv-rs-android-universal-v1.9.26.apk` | 41.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.26.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.28.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.28.apk) |
+| `mhrv-rs-android-universal-v1.9.28.apk` | 41.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.28.apk) |
 | `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 
 ---
