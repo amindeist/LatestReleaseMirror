@@ -56,3 +56,5 @@ ThisIsDara/mhr-cfw-go|mhr-cfw-go-windows-amd64
 maattyi/MasterHttpRelayVpnGUI|MasterRelayVPN-
 
 telegramdesktop/tdesktop|tsetup-x64
+
+GFW-knocker/MahsaNG|\.apk
