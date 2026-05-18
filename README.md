@@ -297,6 +297,27 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="iampedii--whitedns"></div>
+
+### iampedii--WhiteDNS
+
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.4.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.4.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `WhiteDNS-1.4.0-arm64-v8a.apk` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-arm64-v8a.apk) |
+| `WhiteDNS-1.4.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.4.0-armeabi-v7a.apk` | 5.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.4.0-armeabi-v7a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.4.0-universal.apk` | 16.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-universal.apk) |
+| `WhiteDNS-1.4.0-universal.apk.idsig` | 142 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-universal.apk.idsig) |
+| `WhiteDNS-1.4.0-x86.apk` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86.apk) |
+| `WhiteDNS-1.4.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86.apk.idsig) |
+| `WhiteDNS-1.4.0-x86_64.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86_64.apk) |
+| `WhiteDNS-1.4.0-x86_64.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86_64.apk.idsig) |
+
+---
+
 <div id="maattyi--masterhttprelayvpngui"></div>
 
 ### maattyi--MasterHttpRelayVpnGUI
