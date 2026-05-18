@@ -58,3 +58,5 @@ maattyi/MasterHttpRelayVpnGUI|MasterRelayVPN-
 telegramdesktop/tdesktop|tsetup-x64
 
 GFW-knocker/MahsaNG|\.apk
+
+iampedii/WhiteDNS|\.apk
