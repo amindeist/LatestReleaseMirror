@@ -174,20 +174,20 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayNG
 
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.7)
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.8</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.8)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.1.7-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.1.7-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_armeabi-v7a.apk) |
-| `v2rayNG_2.1.7-fdroid_universal.apk` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_universal.apk) |
-| `v2rayNG_2.1.7-fdroid_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_x86.apk) |
-| `v2rayNG_2.1.7-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_x86_64.apk) |
-| `v2rayNG_2.1.7_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_arm64-v8a.apk) |
-| `v2rayNG_2.1.7_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_armeabi-v7a.apk) |
-| `v2rayNG_2.1.7_universal.apk` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_universal.apk) |
-| `v2rayNG_2.1.7_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_x86.apk) |
-| `v2rayNG_2.1.7_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_x86_64.apk) |
+| `v2rayNG_2.1.8-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.1.8-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.1.8-fdroid_universal.apk` | 61.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_universal.apk) |
+| `v2rayNG_2.1.8-fdroid_x86.apk` | 28.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_x86.apk) |
+| `v2rayNG_2.1.8-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_x86_64.apk) |
+| `v2rayNG_2.1.8_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_arm64-v8a.apk) |
+| `v2rayNG_2.1.8_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_armeabi-v7a.apk) |
+| `v2rayNG_2.1.8_universal.apk` | 61.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_universal.apk) |
+| `v2rayNG_2.1.8_x86.apk` | 28.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_x86.apk) |
+| `v2rayNG_2.1.8_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_x86_64.apk) |
 
 ---
 
