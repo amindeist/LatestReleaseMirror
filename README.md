@@ -246,6 +246,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="irnova--nova-proxy-app"></div>
+
+### IRNova--Nova-Proxy-App
+
+🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.1.1</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.1.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `NovaProxy.exe` | 28.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/NovaProxy.exe) |
+
+---
+
 <div id="thisisdara--mhr-cfw-go"></div>
 
 ### ThisIsDara--mhr-cfw-go
