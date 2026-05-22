@@ -60,3 +60,6 @@ telegramdesktop/tdesktop|tsetup-x64
 GFW-knocker/MahsaNG|\.apk
 
 iampedii/WhiteDNS|\.apk
+
+IRNova/Nova-Proxy-App|\.exe|\.zip
+
