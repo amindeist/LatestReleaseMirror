@@ -1,7 +1,7 @@
 {
-  "tag": "v1.9.33",
+  "tag": "v1.9.34",
   "status": "stable",
-  "published_at": "2026-05-20T13:39:09Z",
+  "published_at": "2026-05-22T13:15:53Z",
   "filter_pattern": "mhrv-rs-windows-amd64|mhrv-rs-android-arm64-v8a|mhrv-rs-android-universal",
-  "updated_at": "2026-05-20T15:51:05Z"
+  "updated_at": "2026-05-22T14:58:09Z"
 }
