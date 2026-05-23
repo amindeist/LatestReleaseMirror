@@ -250,11 +250,11 @@ sha256sum FILE_NAME
 
 ### IRNova--Nova-Proxy-App
 
-🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.1.1</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.1.1)
+🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.2</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `NovaProxy.exe` | 28.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/NovaProxy.exe) |
+| `NovaProxy.exe` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/IRNova/Nova-Proxy-App/NovaProxy.exe) |
 
 ---
 
