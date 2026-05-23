@@ -63,3 +63,4 @@ iampedii/WhiteDNS|\.apk
 
 IRNova/Nova-Proxy-App|\.exe|\.zip
 
+mirarr-app/network-checker|\.apk|\.exe|\.zip
