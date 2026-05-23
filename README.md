@@ -258,6 +258,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="kng7-p--se7en-pro"></div>
+
+### KNG7-P--Se7en-Pro
+
+🔗 [source](https://github.com/KNG7-P/Se7en-Pro) – [<code><small>v1.0.0</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `Se7enPro_Setup.exe` | 76.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/Se7enPro_Setup.exe) |
+
+---
+
 <div id="thisisdara--mhr-cfw-go"></div>
 
 ### ThisIsDara--mhr-cfw-go
