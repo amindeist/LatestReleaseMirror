@@ -161,12 +161,12 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.2</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.2)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.3)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 31.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 31.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
 
 ---
 
@@ -237,12 +237,12 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-desktop
 
-🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.14.0</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.14.0)
+🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.16.2</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.16.2)
 
 | File | Size | Download |
 |------|------|----------|
 | `setup-Happ.x64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.001) |
-| `setup-Happ.x64.exe (part 2 of 2)` | 21.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.002) |
+| `setup-Happ.x64.exe (part 2 of 2)` | 21.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.002) |
 
 ---
 
