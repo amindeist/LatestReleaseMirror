@@ -262,11 +262,11 @@ sha256sum FILE_NAME
 
 ### KNG7-P--Se7en-Pro
 
-🔗 [source](https://github.com/KNG7-P/Se7en-Pro) – [<code><small>v1.0.0</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.0)
+🔗 [source](https://github.com/KNG7-P/Se7en-Pro) – [<code><small>v1.0.1</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `Se7enPro_Setup.exe` | 76.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/Se7enPro_Setup.exe) |
+| `Se7enPro_Setup_1.0.1.exe` | 71.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/Se7enPro_Setup_1.0.1.exe) |
 
 ---
 
@@ -370,13 +370,13 @@ sha256sum FILE_NAME
 
 ### mirarr-app--network-checker
 
-🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.7.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.7.0)
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.8.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.8.0)
 
 | File | Size | Download |
 |------|------|----------|
 | `app-arm64-v8a-release.apk` | 31.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
 | `app-armeabi-v7a-release.apk` | 19.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
-| `app-release.apk` | 52.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-release.apk) |
+| `app-release.apk` | 52.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-release.apk) |
 | `app-x86_64-release.apk` | 20.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-x86_64-release.apk) |
 | `rdnbenet-linux-x64.zip` | 24.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
 | `rdnbenet-windows.zip` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
@@ -399,11 +399,11 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.34</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.34)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.35</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.35)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.34.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.34.apk) |
-| `mhrv-rs-android-universal-v1.9.34.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.34.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.35.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.35.apk) |
+| `mhrv-rs-android-universal-v1.9.35.apk` | 45.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.35.apk) |
 | `mhrv-rs-windows-amd64.zip` | 8.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
