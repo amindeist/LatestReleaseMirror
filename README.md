@@ -161,12 +161,12 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.4)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.5</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.5)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
 
 ---
 
@@ -174,20 +174,20 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayNG
 
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.2.2</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.2)
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.2.3</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.2.2-fdroid_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.2-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.2.2-fdroid_armeabi-v7a.apk` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.2-fdroid_armeabi-v7a.apk) |
-| `v2rayNG_2.2.2-fdroid_universal.apk` | 62.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.2-fdroid_universal.apk) |
-| `v2rayNG_2.2.2-fdroid_x86.apk` | 28.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.2-fdroid_x86.apk) |
-| `v2rayNG_2.2.2-fdroid_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.2-fdroid_x86_64.apk) |
-| `v2rayNG_2.2.2_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.2_arm64-v8a.apk) |
-| `v2rayNG_2.2.2_armeabi-v7a.apk` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.2_armeabi-v7a.apk) |
-| `v2rayNG_2.2.2_universal.apk` | 62.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.2_universal.apk) |
-| `v2rayNG_2.2.2_x86.apk` | 28.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.2_x86.apk) |
-| `v2rayNG_2.2.2_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.2_x86_64.apk) |
+| `v2rayNG_2.2.3-fdroid_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.3-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.3-fdroid_armeabi-v7a.apk` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.3-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.2.3-fdroid_universal.apk` | 62.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.3-fdroid_universal.apk) |
+| `v2rayNG_2.2.3-fdroid_x86.apk` | 28.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.3-fdroid_x86.apk) |
+| `v2rayNG_2.2.3-fdroid_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.3-fdroid_x86_64.apk) |
+| `v2rayNG_2.2.3_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.3_arm64-v8a.apk) |
+| `v2rayNG_2.2.3_armeabi-v7a.apk` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.3_armeabi-v7a.apk) |
+| `v2rayNG_2.2.3_universal.apk` | 62.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.3_universal.apk) |
+| `v2rayNG_2.2.3_x86.apk` | 28.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.3_x86.apk) |
+| `v2rayNG_2.2.3_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.3_x86_64.apk) |
 
 ---
 
@@ -357,16 +357,16 @@ sha256sum FILE_NAME
 
 ### mirarr-app--network-checker
 
-🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.8.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.8.0)
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.0.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `app-arm64-v8a-release.apk` | 31.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
-| `app-armeabi-v7a-release.apk` | 19.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
-| `app-release.apk` | 52.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-release.apk) |
-| `app-x86_64-release.apk` | 20.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-x86_64-release.apk) |
-| `rdnbenet-linux-x64.zip` | 24.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
-| `rdnbenet-windows.zip` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
+| `app-arm64-v8a-release.apk` | 31.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
+| `app-armeabi-v7a-release.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
+| `app-release.apk` | 53.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-release.apk) |
+| `app-x86_64-release.apk` | 20.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-x86_64-release.apk) |
+| `rdnbenet-linux-x64.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
+| `rdnbenet-windows.zip` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
 
 ---
 
