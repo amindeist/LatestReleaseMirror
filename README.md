@@ -327,6 +327,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="bepass-org--oblivion"></div>
+
+### bepass-org--oblivion
+
+🔗 [source](https://github.com/bepass-org/oblivion) – [<code><small>v7</small></code>](https://github.com/bepass-org/oblivion/releases/tag/v7)
+
+| File | Size | Download |
+|------|------|----------|
+| `oblivion-v7-signed.apk` | 34.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/bepass-org/oblivion/oblivion-v7-signed.apk) |
+
+---
+
 <div id="center2055--onionhop"></div>
 
 ### center2055--OnionHop
