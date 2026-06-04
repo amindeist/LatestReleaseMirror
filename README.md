@@ -270,6 +270,21 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="karingx--karing"></div>
+
+### KaringX--karing
+
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.19.2209</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.19.2209)
+
+| File | Size | Download |
+|------|------|----------|
+| `karing_1.2.19.2209_android_arm.apk` | 86.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_android_arm.apk) |
+| `karing_1.2.19.2209_android_arm64-v8a.apk` | 49.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_android_arm64-v8a.apk) |
+| `karing_1.2.19.2209_android_armeabi-v7a.apk` | 49.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_android_armeabi-v7a.apk) |
+| `karing_1.2.19.2209_windows_x64.exe` | 43.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_windows_x64.exe) |
+
+---
+
 <div id="thisisdara--mhr-cfw-go"></div>
 
 ### ThisIsDara--mhr-cfw-go
@@ -279,6 +294,22 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
+
+---
+
+<div id="zethrise--spoofgui"></div>
+
+### ZethRise--SpoofGUI
+
+🔗 [source](https://github.com/ZethRise/SpoofGUI) – [<code><small>v1.0.4</small></code>](https://github.com/ZethRise/SpoofGUI/releases/tag/v1.0.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `SpoofGUI-Portable-amd64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Portable-amd64.zip.001) |
+| `SpoofGUI-Portable-amd64.zip (part 2 of 2)` | 18.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Portable-amd64.zip.002) |
+| `SpoofGUI-Portable-x86.zip` | 99.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Portable-x86.zip) |
+| `SpoofGUI-Setup-amd64.exe` | 71.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Setup-amd64.exe) |
+| `SpoofGUI-Setup-x86.exe` | 63.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Setup-x86.exe) |
 
 ---
 
