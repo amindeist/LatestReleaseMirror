@@ -72,3 +72,5 @@ center2055/OnionHop|\.exe
 KaringX/karing|\.apk|\.exe|\.zip
 
 ZethRise/SpoofGUI|\.apk|\.exe|\.zip
+
+therealaleph/sni-spoofing-rust|\.apk|\.exe|\.zip
