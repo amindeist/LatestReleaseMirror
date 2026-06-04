@@ -286,6 +286,19 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="matinsenpai--senpaiscanner"></div>
+
+### MatinSenPai--SenPaiScanner
+
+🔗 [source](https://github.com/MatinSenPai/SenPaiScanner) – [<code><small>v0.5.0</small></code>](https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.5.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `senpaiscanner-windows-386.exe` | 29.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/senpaiscanner-windows-386.exe) |
+| `senpaiscanner-windows-amd64.exe` | 31.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/senpaiscanner-windows-amd64.exe) |
+
+---
+
 <div id="thisisdara--mhr-cfw-go"></div>
 
 ### ThisIsDara--mhr-cfw-go
