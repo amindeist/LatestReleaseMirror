@@ -282,6 +282,7 @@ sha256sum FILE_NAME
 | `karing_1.2.19.2209_android_arm64-v8a.apk` | 49.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_android_arm64-v8a.apk) |
 | `karing_1.2.19.2209_android_armeabi-v7a.apk` | 49.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_android_armeabi-v7a.apk) |
 | `karing_1.2.19.2209_windows_x64.exe` | 43.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_windows_x64.exe) |
+| `karing_1.2.19.2209_windows_x64.zip` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_windows_x64.zip) |
 
 ---
 
