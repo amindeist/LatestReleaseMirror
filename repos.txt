@@ -69,6 +69,6 @@ KNG7-P/Se7en-Pro|\.apk|\.exe|\.zip
 
 center2055/OnionHop|\.exe
 
-KaringX/karing|\.apk|\.exe
+KaringX/karing|\.apk|\.exe|\.zip
 
-ZethRise/SpoofGUI
+ZethRise/SpoofGUI|\.apk|\.exe|\.zip
