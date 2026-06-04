@@ -66,3 +66,6 @@ IRNova/Nova-Proxy-App|\.exe|\.zip
 mirarr-app/network-checker|\.apk|\.exe|\.zip
 
 KNG7-P/Se7en-Pro|\.apk|\.exe|\.zip
+
+center2055/OnionHop|\.exe
+
