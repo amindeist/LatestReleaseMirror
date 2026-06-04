@@ -439,4 +439,16 @@ sha256sum FILE_NAME
 | `mhrv-rs-android-arm64-v8a-v1.9.36.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.36.apk) |
 | `mhrv-rs-android-universal-v1.9.36.apk` | 45.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.36.apk) |
 | `mhrv-rs-windows-amd64.zip` | 8.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+
+---
+
+<div id="therealaleph--sni-spoofing-rust"></div>
+
+### therealaleph--sni-spoofing-rust
+
+🔗 [source](https://github.com/therealaleph/sni-spoofing-rust) – [<code><small>v1.0.2</small></code>](https://github.com/therealaleph/sni-spoofing-rust/releases/tag/v1.0.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `sni-spoof-rs-windows-amd64.zip` | 16.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
