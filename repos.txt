@@ -71,3 +71,4 @@ center2055/OnionHop|\.exe
 
 KaringX/karing|\.apk|\.exe
 
+ZethRise/SpoofGUI
