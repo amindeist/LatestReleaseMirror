@@ -76,3 +76,5 @@ ZethRise/SpoofGUI|\.apk|\.exe|\.zip
 therealaleph/sni-spoofing-rust|\.apk|\.exe|\.zip
 
 MatinSenPai/SenPaiScanner|\.apk|\.exe|\.zip
+
+bepass-org/oblivion|\.apk|\.exe|\.zip
