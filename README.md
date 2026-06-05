@@ -343,13 +343,13 @@ sha256sum FILE_NAME
 
 ### center2055--OnionHop
 
-🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.1.0</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.1.0)
+🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.2.0</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.2.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `OnionHop-CLI-Setup-3.1.0.exe` | 72.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.1.0.exe) |
+| `OnionHop-CLI-Setup-3.2.0.exe` | 72.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.2.0.exe) |
 | `OnionHop-Setup-v3.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.001) |
-| `OnionHop-Setup-v3.exe (part 2 of 2)` | 29.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
+| `OnionHop-Setup-v3.exe (part 2 of 2)` | 29.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
 
 ---
 
