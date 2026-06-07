@@ -428,7 +428,7 @@ sha256sum FILE_NAME
 
 ### mirarr-app--network-checker
 
-🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.0.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.0.0)
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.1.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.1.0)
 
 | File | Size | Download |
 |------|------|----------|
