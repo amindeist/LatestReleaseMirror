@@ -315,15 +315,15 @@ sha256sum FILE_NAME
 
 ### ZethRise--SpoofGUI
 
-🔗 [source](https://github.com/ZethRise/SpoofGUI) – [<code><small>v1.0.4</small></code>](https://github.com/ZethRise/SpoofGUI/releases/tag/v1.0.4)
+🔗 [source](https://github.com/ZethRise/SpoofGUI) – [<code><small>v1.0.5</small></code>](https://github.com/ZethRise/SpoofGUI/releases/tag/v1.0.5)
 
 | File | Size | Download |
 |------|------|----------|
 | `SpoofGUI-Portable-amd64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Portable-amd64.zip.001) |
-| `SpoofGUI-Portable-amd64.zip (part 2 of 2)` | 18.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Portable-amd64.zip.002) |
-| `SpoofGUI-Portable-x86.zip` | 99.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Portable-x86.zip) |
-| `SpoofGUI-Setup-amd64.exe` | 71.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Setup-amd64.exe) |
-| `SpoofGUI-Setup-x86.exe` | 63.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Setup-x86.exe) |
+| `SpoofGUI-Portable-amd64.zip (part 2 of 2)` | 19.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Portable-amd64.zip.002) |
+| `SpoofGUI-Portable-x86.zip` | 99.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Portable-x86.zip) |
+| `SpoofGUI-Setup-amd64.exe` | 72.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Setup-amd64.exe) |
+| `SpoofGUI-Setup-x86.exe` | 64.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/ZethRise/SpoofGUI/SpoofGUI-Setup-x86.exe) |
 
 ---
 
@@ -343,25 +343,13 @@ sha256sum FILE_NAME
 
 ### center2055--OnionHop
 
-🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.2.0</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.2.0)
+🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.3.0</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.3.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `OnionHop-CLI-Setup-3.2.0.exe` | 72.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.2.0.exe) |
+| `OnionHop-CLI-Setup-3.3.0.exe` | 72.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.3.0.exe) |
 | `OnionHop-Setup-v3.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.001) |
-| `OnionHop-Setup-v3.exe (part 2 of 2)` | 29.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
-
----
-
-<div id="davudsedft--purvpn"></div>
-
-### davudsedft--purvpn
-
-🔗 [source](https://github.com/davudsedft/purvpn) – [<code><small>11.9</small></code>](https://github.com/davudsedft/purvpn/releases/tag/11.9)
-
-| File | Size | Download |
-|------|------|----------|
-| `purvpn-11.9-release.apk` | 80.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/purvpn-11.9-release.apk) |
+| `OnionHop-Setup-v3.exe (part 2 of 2)` | 29.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
 
 ---
 
