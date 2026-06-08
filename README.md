@@ -224,7 +224,7 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-android
 
-🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>3.22.1</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/3.22.1)
+🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>3.23.0</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/3.23.0)
 
 | File | Size | Download |
 |------|------|----------|
@@ -237,10 +237,11 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-desktop
 
-🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.16.2</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.16.2)
+🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.17.1</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.17.1)
 
 | File | Size | Download |
 |------|------|----------|
+| `setup-Happ.arm64.exe` | 99.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.arm64.exe) |
 | `setup-Happ.x64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.001) |
 | `setup-Happ.x64.exe (part 2 of 2)` | 21.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.002) |
 
