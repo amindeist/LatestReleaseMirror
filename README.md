@@ -161,7 +161,7 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.5</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.5)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.6</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.6)
 
 | File | Size | Download |
 |------|------|----------|
@@ -427,18 +427,6 @@ sha256sum FILE_NAME
 | `app-x86_64-release.apk` | 20.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-x86_64-release.apk) |
 | `rdnbenet-linux-x64.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
 | `rdnbenet-windows.zip` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
-
----
-
-<div id="telegramdesktop--tdesktop"></div>
-
-### telegramdesktop--tdesktop
-
-🔗 [source](https://github.com/telegramdesktop/tdesktop) – [<code><small>v6.8.2</small></code>](https://github.com/telegramdesktop/tdesktop/releases/tag/v6.8.2)
-
-| File | Size | Download |
-|------|------|----------|
-| `tsetup-x64.6.8.2.exe` | 49.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/telegramdesktop/tdesktop/tsetup-x64.6.8.2.exe) |
 
 ---
 
