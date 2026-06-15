@@ -86,3 +86,5 @@ MustardChef/WSABuilds|\.apk|\.exe|\.zip
 mlmvpn/mlmvpn|\.apk|\.exe|\.zip
 
 frank-vpl/IRBox|\.apk|\.exe|\.zip
+
+code3-dev/GNet|\.apk|\.exe|\.zip
