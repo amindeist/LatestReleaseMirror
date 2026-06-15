@@ -161,12 +161,12 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.6</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.6)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.22.7</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.7)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
 
 ---
 
@@ -291,12 +291,12 @@ sha256sum FILE_NAME
 
 ### MatinSenPai--SenPaiScanner
 
-🔗 [source](https://github.com/MatinSenPai/SenPaiScanner) – [<code><small>v0.5.0</small></code>](https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.5.0)
+🔗 [source](https://github.com/MatinSenPai/SenPaiScanner) – [<code><small>v0.7.1</small></code>](https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.7.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `senpaiscanner-windows-386.exe` | 29.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/senpaiscanner-windows-386.exe) |
-| `senpaiscanner-windows-amd64.exe` | 31.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/senpaiscanner-windows-amd64.exe) |
+| `senpaiscanner-windows-386.exe` | 29.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/senpaiscanner-windows-386.exe) |
+| `senpaiscanner-windows-amd64.exe` | 31.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/senpaiscanner-windows-amd64.exe) |
 
 ---
 
@@ -354,6 +354,44 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="code3-dev--gnet"></div>
+
+### code3-dev--GNet
+
+🔗 [source](https://github.com/code3-dev/GNet) – [<code><small>v1.0.4</small></code>](https://github.com/code3-dev/GNet/releases/tag/v1.0.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `GNet-universal.apk` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/code3-dev/GNet/GNet-universal.apk) |
+
+---
+
+<div id="davudsedft--purvpn"></div>
+
+### davudsedft--purvpn
+
+🔗 [source](https://github.com/davudsedft/purvpn) – [<code><small>14.5</small></code>](https://github.com/davudsedft/purvpn/releases/tag/14.5)
+
+| File | Size | Download |
+|------|------|----------|
+| `purvpn-14.5-release.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/purvpn-14.5-release.apk.001) |
+| `purvpn-14.5-release.apk (part 2 of 2)` | 18.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/purvpn-14.5-release.apk.002) |
+
+---
+
+<div id="frank-vpl--irbox"></div>
+
+### frank-vpl--IRBox
+
+🔗 [source](https://github.com/frank-vpl/IRBox) – [<code><small>v1.0.2</small></code>](https://github.com/frank-vpl/IRBox/releases/tag/v1.0.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `IRBox_1.0.2_arm64-setup.exe` | 22.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/frank-vpl/IRBox/IRBox_1.0.2_arm64-setup.exe) |
+| `IRBox_1.0.2_x64-setup.exe` | 26.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/frank-vpl/IRBox/IRBox_1.0.2_x64-setup.exe) |
+
+---
+
 <div id="hiddify--hiddify-app"></div>
 
 ### hiddify--hiddify-app
@@ -405,11 +443,11 @@ sha256sum FILE_NAME
 
 ### masterking32--MasterDnsVPN
 
-🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.10.180256-27c7e11</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.10.180256-27c7e11)
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.06.13.234407-7de2476</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.06.13.234407-7de2476)
 
 | File | Size | Download |
 |------|------|----------|
-| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
 
 ---
 
@@ -417,16 +455,25 @@ sha256sum FILE_NAME
 
 ### mirarr-app--network-checker
 
-🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.1.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.1.0)
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.2.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.2.0)
 
 | File | Size | Download |
 |------|------|----------|
 | `app-arm64-v8a-release.apk` | 31.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
-| `app-armeabi-v7a-release.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
-| `app-release.apk` | 53.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-release.apk) |
-| `app-x86_64-release.apk` | 20.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-x86_64-release.apk) |
 | `rdnbenet-linux-x64.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
 | `rdnbenet-windows.zip` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
+
+---
+
+<div id="telegramdesktop--tdesktop"></div>
+
+### telegramdesktop--tdesktop
+
+🔗 [source](https://github.com/telegramdesktop/tdesktop) – [<code><small>v6.9.3</small></code>](https://github.com/telegramdesktop/tdesktop/releases/tag/v6.9.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `tsetup-x64.6.9.3.exe` | 50.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/telegramdesktop/tdesktop/tsetup-x64.6.9.3.exe) |
 
 ---
 
