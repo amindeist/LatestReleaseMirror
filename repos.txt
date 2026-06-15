@@ -81,6 +81,8 @@ bepass-org/oblivion|\.apk|\.exe|\.zip
 
 MatinSenPai/SenPaiScanner|\.apk|\.exe|\.zip
 
-MustardChef/WSABuilds
+MustardChef/WSABuilds|\.apk|\.exe|\.zip
 
-mlmvpn/mlmvpn
+mlmvpn/mlmvpn|\.apk|\.exe|\.zip
+
+frank-vpl/IRBox|\.apk|\.exe|\.zip
