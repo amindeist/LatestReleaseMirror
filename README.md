@@ -174,20 +174,20 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayNG
 
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.2.4</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.4)
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.2.5</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.2.4-fdroid_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.4-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.2.4-fdroid_armeabi-v7a.apk` | 27.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.4-fdroid_armeabi-v7a.apk) |
-| `v2rayNG_2.2.4-fdroid_universal.apk` | 62.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.4-fdroid_universal.apk) |
-| `v2rayNG_2.2.4-fdroid_x86.apk` | 28.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.4-fdroid_x86.apk) |
-| `v2rayNG_2.2.4-fdroid_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.4-fdroid_x86_64.apk) |
-| `v2rayNG_2.2.4_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.4_arm64-v8a.apk) |
-| `v2rayNG_2.2.4_armeabi-v7a.apk` | 27.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.4_armeabi-v7a.apk) |
-| `v2rayNG_2.2.4_universal.apk` | 62.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.4_universal.apk) |
-| `v2rayNG_2.2.4_x86.apk` | 28.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.4_x86.apk) |
-| `v2rayNG_2.2.4_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.4_x86_64.apk) |
+| `v2rayNG_2.2.5-fdroid_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.5-fdroid_armeabi-v7a.apk` | 27.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.2.5-fdroid_universal.apk` | 62.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_universal.apk) |
+| `v2rayNG_2.2.5-fdroid_x86.apk` | 28.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_x86.apk) |
+| `v2rayNG_2.2.5-fdroid_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_x86_64.apk) |
+| `v2rayNG_2.2.5_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_arm64-v8a.apk) |
+| `v2rayNG_2.2.5_armeabi-v7a.apk` | 27.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_armeabi-v7a.apk) |
+| `v2rayNG_2.2.5_universal.apk` | 62.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_universal.apk) |
+| `v2rayNG_2.2.5_x86.apk` | 28.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_x86.apk) |
+| `v2rayNG_2.2.5_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_x86_64.apk) |
 
 ---
 
@@ -344,11 +344,11 @@ sha256sum FILE_NAME
 
 ### center2055--OnionHop
 
-🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.4.0</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.4.0)
+🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.4.1</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.4.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `OnionHop-CLI-Setup-3.4.0.exe` | 72.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.4.0.exe) |
+| `OnionHop-CLI-Setup-3.4.1.exe` | 72.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.4.1.exe) |
 | `OnionHop-Setup-v3.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.001) |
 | `OnionHop-Setup-v3.exe (part 2 of 2)` | 30.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
 
