@@ -237,7 +237,7 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-desktop
 
-🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.18.1</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.18.1)
+🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.18.3</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.18.3)
 
 | File | Size | Download |
 |------|------|----------|
@@ -276,15 +276,15 @@ sha256sum FILE_NAME
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.19.2209</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.19.2209)
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.20.2308</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.20.2308)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.19.2209_android_arm.apk` | 86.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_android_arm.apk) |
-| `karing_1.2.19.2209_android_arm64-v8a.apk` | 49.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_android_arm64-v8a.apk) |
-| `karing_1.2.19.2209_android_armeabi-v7a.apk` | 49.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_android_armeabi-v7a.apk) |
-| `karing_1.2.19.2209_windows_x64.exe` | 43.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_windows_x64.exe) |
-| `karing_1.2.19.2209_windows_x64.zip` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.19.2209_windows_x64.zip) |
+| `karing_1.2.20.2308_android_arm.apk` | 88.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.20.2308_android_arm.apk) |
+| `karing_1.2.20.2308_android_arm64-v8a.apk` | 51.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.20.2308_android_arm64-v8a.apk) |
+| `karing_1.2.20.2308_android_armeabi-v7a.apk` | 52.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.20.2308_android_armeabi-v7a.apk) |
+| `karing_1.2.20.2308_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.20.2308_windows_x64.exe) |
+| `karing_1.2.20.2308_windows_x64.zip` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.20.2308_windows_x64.zip) |
 
 ---
 
@@ -345,11 +345,11 @@ sha256sum FILE_NAME
 
 ### center2055--OnionHop
 
-🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.4.1</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.4.1)
+🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.4.2</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.4.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `OnionHop-CLI-Setup-3.4.1.exe` | 72.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.4.1.exe) |
+| `OnionHop-CLI-Setup-3.4.2.exe` | 72.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.4.2.exe) |
 | `OnionHop-Setup-v3.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.001) |
 | `OnionHop-Setup-v3.exe (part 2 of 2)` | 30.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
 
