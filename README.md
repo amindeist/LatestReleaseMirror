@@ -276,15 +276,15 @@ sha256sum FILE_NAME
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.20.2308</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.20.2308)
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.21.2402</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.21.2402)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.20.2308_android_arm.apk` | 88.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.20.2308_android_arm.apk) |
-| `karing_1.2.20.2308_android_arm64-v8a.apk` | 51.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.20.2308_android_arm64-v8a.apk) |
-| `karing_1.2.20.2308_android_armeabi-v7a.apk` | 52.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.20.2308_android_armeabi-v7a.apk) |
-| `karing_1.2.20.2308_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.20.2308_windows_x64.exe) |
-| `karing_1.2.20.2308_windows_x64.zip` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.20.2308_windows_x64.zip) |
+| `karing_1.2.21.2402_android_arm.apk` | 86.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2402_android_arm.apk) |
+| `karing_1.2.21.2402_android_arm64-v8a.apk` | 50.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2402_android_arm64-v8a.apk) |
+| `karing_1.2.21.2402_android_armeabi-v7a.apk` | 50.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2402_android_armeabi-v7a.apk) |
+| `karing_1.2.21.2402_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2402_windows_x64.exe) |
+| `karing_1.2.21.2402_windows_x64.zip` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2402_windows_x64.zip) |
 
 ---
 
@@ -364,19 +364,6 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `GNet-universal.apk` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/code3-dev/GNet/GNet-universal.apk) |
-
----
-
-<div id="davudsedft--purvpn"></div>
-
-### davudsedft--purvpn
-
-🔗 [source](https://github.com/davudsedft/purvpn) – [<code><small>14.5</small></code>](https://github.com/davudsedft/purvpn/releases/tag/14.5)
-
-| File | Size | Download |
-|------|------|----------|
-| `purvpn-14.5-release.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/purvpn-14.5-release.apk.001) |
-| `purvpn-14.5-release.apk (part 2 of 2)` | 18.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/purvpn-14.5-release.apk.002) |
 
 ---
 
