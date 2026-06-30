@@ -276,15 +276,15 @@ sha256sum FILE_NAME
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.21.2402</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.21.2402)
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.21.2404</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.21.2404)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.21.2402_android_arm.apk` | 86.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2402_android_arm.apk) |
-| `karing_1.2.21.2402_android_arm64-v8a.apk` | 50.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2402_android_arm64-v8a.apk) |
-| `karing_1.2.21.2402_android_armeabi-v7a.apk` | 50.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2402_android_armeabi-v7a.apk) |
-| `karing_1.2.21.2402_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2402_windows_x64.exe) |
-| `karing_1.2.21.2402_windows_x64.zip` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2402_windows_x64.zip) |
+| `karing_1.2.21.2404_android_arm.apk` | 86.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2404_android_arm.apk) |
+| `karing_1.2.21.2404_android_arm64-v8a.apk` | 50.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2404_android_arm64-v8a.apk) |
+| `karing_1.2.21.2404_android_armeabi-v7a.apk` | 50.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2404_android_armeabi-v7a.apk) |
+| `karing_1.2.21.2404_windows_x64.exe` | 43.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2404_windows_x64.exe) |
+| `karing_1.2.21.2404_windows_x64.zip` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2404_windows_x64.zip) |
 
 ---
 
@@ -345,11 +345,11 @@ sha256sum FILE_NAME
 
 ### center2055--OnionHop
 
-🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.4.3</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.4.3)
+🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.4.5</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.4.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `OnionHop-CLI-Setup-3.4.3.exe` | 72.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.4.3.exe) |
+| `OnionHop-CLI-Setup-3.4.5.exe` | 86.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.4.5.exe) |
 | `OnionHop-Setup-v3.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.001) |
 | `OnionHop-Setup-v3.exe (part 2 of 2)` | 30.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
 
