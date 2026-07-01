@@ -224,12 +224,12 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-android
 
-🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>3.24.1</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/3.24.1)
+🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>3.25.1</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/3.25.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `Happ.apk` | 57.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ.apk) |
-| `Happ_beta.apk` | 57.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ_beta.apk) |
+| `Happ.apk` | 57.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ.apk) |
+| `Happ_beta.apk` | 57.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ_beta.apk) |
 
 ---
 
