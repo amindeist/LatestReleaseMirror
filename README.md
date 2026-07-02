@@ -207,16 +207,17 @@ sha256sum FILE_NAME
 
 ### GFW-knocker--MahsaNG
 
-🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v16-(1405-2-25)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v16-(1405-2-25))
+🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v17-(1405-4-8)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v17-(1405-4-8))
 
 | File | Size | Download |
 |------|------|----------|
-| `MahsaNG_16_arm64-v8a.apk` | 59.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_arm64-v8a.apk) |
-| `MahsaNG_16_armeabi-v7a.apk` | 60.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_armeabi-v7a.apk) |
-| `MahsaNG_16_universal.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_universal.apk.001) |
-| `MahsaNG_16_universal.apk (part 2 of 2)` | 82.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_universal.apk.002) |
-| `MahsaNG_16_x86.apk` | 63.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86.apk) |
-| `MahsaNG_16_x86_64.apk` | 62.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86_64.apk) |
+| `MahsaNG_17_arm64-v8a.apk` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_17_arm64-v8a.apk) |
+| `MahsaNG_17_armeabi-v7a.apk` | 65.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_17_armeabi-v7a.apk) |
+| `MahsaNG_17_universal.apk (part 1 of 3)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_17_universal.apk.001) |
+| `MahsaNG_17_universal.apk (part 2 of 3)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_17_universal.apk.002) |
+| `MahsaNG_17_universal.apk (part 3 of 3)` | 13.5 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_17_universal.apk.003) |
+| `MahsaNG_17_x86.apk` | 69.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_17_x86.apk) |
+| `MahsaNG_17_x86_64.apk` | 67.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_17_x86_64.apk) |
 
 ---
 
@@ -276,15 +277,15 @@ sha256sum FILE_NAME
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.21.2405</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.21.2405)
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.21.2406</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.21.2406)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.21.2405_android_arm.apk` | 86.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2405_android_arm.apk) |
-| `karing_1.2.21.2405_android_arm64-v8a.apk` | 50.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2405_android_arm64-v8a.apk) |
-| `karing_1.2.21.2405_android_armeabi-v7a.apk` | 50.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2405_android_armeabi-v7a.apk) |
-| `karing_1.2.21.2405_windows_x64.exe` | 43.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2405_windows_x64.exe) |
-| `karing_1.2.21.2405_windows_x64.zip` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2405_windows_x64.zip) |
+| `karing_1.2.21.2406_android_arm.apk` | 86.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2406_android_arm.apk) |
+| `karing_1.2.21.2406_android_arm64-v8a.apk` | 50.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2406_android_arm64-v8a.apk) |
+| `karing_1.2.21.2406_android_armeabi-v7a.apk` | 50.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2406_android_armeabi-v7a.apk) |
+| `karing_1.2.21.2406_windows_x64.exe` | 43.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2406_windows_x64.exe) |
+| `karing_1.2.21.2406_windows_x64.zip` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2406_windows_x64.zip) |
 
 ---
 
@@ -345,13 +346,13 @@ sha256sum FILE_NAME
 
 ### center2055--OnionHop
 
-🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.4.5</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.4.5)
+🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.5</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `OnionHop-CLI-Setup-3.4.5.exe` | 86.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.4.5.exe) |
+| `OnionHop-CLI-Setup-3.5.exe` | 86.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.5.exe) |
 | `OnionHop-Setup-v3.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.001) |
-| `OnionHop-Setup-v3.exe (part 2 of 2)` | 30.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
+| `OnionHop-Setup-v3.exe (part 2 of 2)` | 29.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
 
 ---
 
@@ -422,7 +423,7 @@ sha256sum FILE_NAME
 
 ### mirarr-app--network-checker
 
-🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.2.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.2.0)
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.3.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.3.0)
 
 | File | Size | Download |
 |------|------|----------|
