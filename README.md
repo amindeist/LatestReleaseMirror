@@ -207,7 +207,7 @@ sha256sum FILE_NAME
 
 ### GFW-knocker--MahsaNG
 
-🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v17-(1405-4-8)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v17-(1405-4-8))
+🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v17-(1405-4-12)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v17-(1405-4-12))
 
 | File | Size | Download |
 |------|------|----------|
@@ -277,15 +277,15 @@ sha256sum FILE_NAME
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.21.2406</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.21.2406)
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.21.2407</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.21.2407)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.21.2406_android_arm.apk` | 86.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2406_android_arm.apk) |
-| `karing_1.2.21.2406_android_arm64-v8a.apk` | 50.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2406_android_arm64-v8a.apk) |
-| `karing_1.2.21.2406_android_armeabi-v7a.apk` | 50.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2406_android_armeabi-v7a.apk) |
-| `karing_1.2.21.2406_windows_x64.exe` | 43.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2406_windows_x64.exe) |
-| `karing_1.2.21.2406_windows_x64.zip` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2406_windows_x64.zip) |
+| `karing_1.2.21.2407_android_arm.apk` | 86.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2407_android_arm.apk) |
+| `karing_1.2.21.2407_android_arm64-v8a.apk` | 50.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2407_android_arm64-v8a.apk) |
+| `karing_1.2.21.2407_android_armeabi-v7a.apk` | 50.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2407_android_armeabi-v7a.apk) |
+| `karing_1.2.21.2407_windows_x64.exe` | 43.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2407_windows_x64.exe) |
+| `karing_1.2.21.2407_windows_x64.zip` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2407_windows_x64.zip) |
 
 ---
 
@@ -346,11 +346,11 @@ sha256sum FILE_NAME
 
 ### center2055--OnionHop
 
-🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.5</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.5)
+🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.5.1</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.5.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `OnionHop-CLI-Setup-3.5.exe` | 86.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.5.exe) |
+| `OnionHop-CLI-Setup-3.5.1.exe` | 86.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.5.1.exe) |
 | `OnionHop-Setup-v3.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.001) |
 | `OnionHop-Setup-v3.exe (part 2 of 2)` | 29.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
 
