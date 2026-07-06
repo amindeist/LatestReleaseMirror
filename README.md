@@ -174,20 +174,26 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayNG
 
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.2.5</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.5)
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.2.6</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.6)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.2.5-fdroid_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.2.5-fdroid_armeabi-v7a.apk` | 27.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_armeabi-v7a.apk) |
-| `v2rayNG_2.2.5-fdroid_universal.apk` | 62.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_universal.apk) |
-| `v2rayNG_2.2.5-fdroid_x86.apk` | 28.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_x86.apk) |
-| `v2rayNG_2.2.5-fdroid_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5-fdroid_x86_64.apk) |
-| `v2rayNG_2.2.5_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_arm64-v8a.apk) |
-| `v2rayNG_2.2.5_armeabi-v7a.apk` | 27.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_armeabi-v7a.apk) |
-| `v2rayNG_2.2.5_universal.apk` | 62.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_universal.apk) |
-| `v2rayNG_2.2.5_x86.apk` | 28.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_x86.apk) |
-| `v2rayNG_2.2.5_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.5_x86_64.apk) |
+| `v2rayNG_2.2.6-fdroid_arm64-v8a.apk` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.6-fdroid_arm64-v8a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6-fdroid_arm64-v8a.apk.sig) |
+| `v2rayNG_2.2.6-fdroid_armeabi-v7a.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.2.6-fdroid_armeabi-v7a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6-fdroid_armeabi-v7a.apk.sig) |
+| `v2rayNG_2.2.6-fdroid_x86.apk` | 28.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6-fdroid_x86.apk) |
+| `v2rayNG_2.2.6-fdroid_x86.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6-fdroid_x86.apk.sig) |
+| `v2rayNG_2.2.6-fdroid_x86_64.apk` | 28.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6-fdroid_x86_64.apk) |
+| `v2rayNG_2.2.6-fdroid_x86_64.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6-fdroid_x86_64.apk.sig) |
+| `v2rayNG_2.2.6_arm64-v8a.apk` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6_arm64-v8a.apk) |
+| `v2rayNG_2.2.6_arm64-v8a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6_arm64-v8a.apk.sig) |
+| `v2rayNG_2.2.6_armeabi-v7a.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6_armeabi-v7a.apk) |
+| `v2rayNG_2.2.6_armeabi-v7a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6_armeabi-v7a.apk.sig) |
+| `v2rayNG_2.2.6_x86.apk` | 28.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6_x86.apk) |
+| `v2rayNG_2.2.6_x86.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6_x86.apk.sig) |
+| `v2rayNG_2.2.6_x86_64.apk` | 28.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6_x86_64.apk) |
+| `v2rayNG_2.2.6_x86_64.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.2.6_x86_64.apk.sig) |
 
 ---
 
@@ -195,11 +201,12 @@ sha256sum FILE_NAME
 
 ### DigneZzZ--v2raytun
 
-🔗 [source](https://github.com/DigneZzZ/v2raytun) – [<code><small>5.23.73</small></code>](https://github.com/DigneZzZ/v2raytun/releases/tag/5.23.73)
+🔗 [source](https://github.com/DigneZzZ/v2raytun) – [<code><small>5.24.76</small></code>](https://github.com/DigneZzZ/v2raytun/releases/tag/5.24.76)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2RayTun_universal.apk` | 94.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/DigneZzZ/v2raytun/v2RayTun_universal.apk) |
+| `v2RayTun_Setup.exe` | 54.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/DigneZzZ/v2raytun/v2RayTun_Setup.exe) |
+| `v2RayTun_universal.apk` | 69.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/DigneZzZ/v2raytun/v2RayTun_universal.apk) |
 
 ---
 
