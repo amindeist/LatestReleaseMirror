@@ -1,7 +1,7 @@
 {
-  "tag": "5.23.73",
+  "tag": "5.24.76",
   "status": "stable",
-  "published_at": "2026-04-22T18:46:06Z",
+  "published_at": "2026-07-06T08:35:05Z",
   "filter_pattern": "v2RayTun_universal|v2RayTun_Setup",
-  "updated_at": "2026-05-12T07:37:51Z"
+  "updated_at": "2026-07-06T15:57:07Z"
 }
