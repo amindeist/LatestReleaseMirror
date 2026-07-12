@@ -161,13 +161,13 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.23.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.23.3)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.23.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.23.4)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64-desktop.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.sig) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
 
 ---
 
@@ -354,11 +354,11 @@ sha256sum FILE_NAME
 
 ### center2055--OnionHop
 
-🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.7.2</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.7.2)
+🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.7.3</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.7.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `OnionHop-CLI-Setup-3.7.2.exe` | 86.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.7.2.exe) |
+| `OnionHop-CLI-Setup-3.7.3.exe` | 86.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.7.3.exe) |
 | `OnionHop-Setup-v3.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.001) |
 | `OnionHop-Setup-v3.exe (part 2 of 2)` | 29.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
 
