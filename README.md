@@ -233,12 +233,12 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-android
 
-🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>3.25.1</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/3.25.1)
+🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>3.26.3</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/3.26.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `Happ.apk` | 57.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ.apk) |
-| `Happ_beta.apk` | 57.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ_beta.apk) |
+| `Happ.apk` | 58.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ.apk) |
+| `Happ_beta.apk` | 58.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ_beta.apk) |
 
 ---
 
@@ -246,14 +246,13 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-desktop
 
-🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>2.18.3</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/2.18.3)
+🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>3.1.0</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/3.1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `setup-Happ.arm64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.arm64.exe.001) |
-| `setup-Happ.arm64.exe (part 2 of 2)` | 10.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.arm64.exe.002) |
+| `setup-Happ.arm64.exe` | 79.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.arm64.exe) |
 | `setup-Happ.x64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.001) |
-| `setup-Happ.x64.exe (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.002) |
+| `setup-Happ.x64.exe (part 2 of 2)` | 22.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.002) |
 
 ---
 
@@ -354,11 +353,11 @@ sha256sum FILE_NAME
 
 ### center2055--OnionHop
 
-🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.7.3</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.7.3)
+🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.7.4</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.7.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `OnionHop-CLI-Setup-3.7.3.exe` | 86.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.7.3.exe) |
+| `OnionHop-CLI-Setup-3.7.4.exe` | 86.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.7.4.exe) |
 | `OnionHop-Setup-v3.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.001) |
 | `OnionHop-Setup-v3.exe (part 2 of 2)` | 29.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
 
