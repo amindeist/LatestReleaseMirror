@@ -285,15 +285,15 @@ sha256sum FILE_NAME
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.21.2409</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.21.2409)
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.22.2502</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.22.2502)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.21.2409_android_arm.apk` | 87.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2409_android_arm.apk) |
-| `karing_1.2.21.2409_android_arm64-v8a.apk` | 51.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2409_android_arm64-v8a.apk) |
-| `karing_1.2.21.2409_android_armeabi-v7a.apk` | 51.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2409_android_armeabi-v7a.apk) |
-| `karing_1.2.21.2409_windows_x64.exe` | 43.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2409_windows_x64.exe) |
-| `karing_1.2.21.2409_windows_x64.zip` | 62.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.21.2409_windows_x64.zip) |
+| `karing_1.2.22.2502_android_arm.apk` | 87.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.22.2502_android_arm.apk) |
+| `karing_1.2.22.2502_android_arm64-v8a.apk` | 51.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.22.2502_android_arm64-v8a.apk) |
+| `karing_1.2.22.2502_android_armeabi-v7a.apk` | 51.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.22.2502_android_armeabi-v7a.apk) |
+| `karing_1.2.22.2502_windows_x64.exe` | 44.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.22.2502_windows_x64.exe) |
+| `karing_1.2.22.2502_windows_x64.zip` | 62.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.22.2502_windows_x64.zip) |
 
 ---
 
