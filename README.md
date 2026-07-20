@@ -246,13 +246,13 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-desktop
 
-🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>3.1.0</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/3.1.0)
+🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>3.3.6</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/3.3.6)
 
 | File | Size | Download |
 |------|------|----------|
-| `setup-Happ.arm64.exe` | 79.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.arm64.exe) |
+| `setup-Happ.arm64.exe` | 80.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.arm64.exe) |
 | `setup-Happ.x64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.001) |
-| `setup-Happ.x64.exe (part 2 of 2)` | 22.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.002) |
+| `setup-Happ.x64.exe (part 2 of 2)` | 23.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-desktop/setup-Happ.x64.exe.002) |
 
 ---
 
