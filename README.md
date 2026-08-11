@@ -161,13 +161,13 @@ sha256sum FILE_NAME
 
 ### 2dust--v2rayN
 
-🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.23.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.23.4)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.24.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.24.4)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64-desktop.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.sig) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 36.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
 
 ---
 
@@ -233,12 +233,12 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-android
 
-🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>3.26.3</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/3.26.3)
+🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>4.1.0</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/4.1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `Happ.apk` | 58.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ.apk) |
-| `Happ_beta.apk` | 58.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ_beta.apk) |
+| `Happ.apk` | 61.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ.apk) |
+| `Happ_beta.apk` | 61.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/Happ-proxy/happ-android/Happ_beta.apk) |
 
 ---
 
@@ -284,15 +284,16 @@ sha256sum FILE_NAME
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.22.2502</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.22.2502)
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.23.2606</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.23.2606)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.22.2502_android_arm.apk` | 87.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.22.2502_android_arm.apk) |
-| `karing_1.2.22.2502_android_arm64-v8a.apk` | 51.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.22.2502_android_arm64-v8a.apk) |
-| `karing_1.2.22.2502_android_armeabi-v7a.apk` | 51.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.22.2502_android_armeabi-v7a.apk) |
-| `karing_1.2.22.2502_windows_x64.exe` | 44.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.22.2502_windows_x64.exe) |
-| `karing_1.2.22.2502_windows_x64.zip` | 62.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.22.2502_windows_x64.zip) |
+| `karing_1.2.23.2606_android_arm64-v8a.apk` | 53.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_android_arm64-v8a.apk) |
+| `karing_1.2.23.2606_android_armeabi-v7a.apk` | 53.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_android_armeabi-v7a.apk) |
+| `karing_1.2.23.2606_android_arm.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_android_arm.apk.001) |
+| `karing_1.2.23.2606_android_arm.apk (part 2 of 2)` | 38.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_android_arm.apk.002) |
+| `karing_1.2.23.2606_windows_x64.exe` | 44.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_windows_x64.exe) |
+| `karing_1.2.23.2606_windows_x64.zip` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_windows_x64.zip) |
 
 ---
 
@@ -300,12 +301,18 @@ sha256sum FILE_NAME
 
 ### MatinSenPai--SenPaiScanner
 
-🔗 [source](https://github.com/MatinSenPai/SenPaiScanner) – [<code><small>v0.7.1</small></code>](https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v0.7.1)
+🔗 [source](https://github.com/MatinSenPai/SenPaiScanner) – [<code><small>v1.0.0</small></code>](https://github.com/MatinSenPai/SenPaiScanner/releases/tag/v1.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `senpaiscanner-windows-386.exe` | 29.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/senpaiscanner-windows-386.exe) |
-| `senpaiscanner-windows-amd64.exe` | 31.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/senpaiscanner-windows-amd64.exe) |
+| `SenPaiScanner-1.0.0-android-arm64-v8a.apk` | 35.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/SenPaiScanner-1.0.0-android-arm64-v8a.apk) |
+| `SenPaiScanner-1.0.0-android-armeabi-v7a.apk` | 34.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/SenPaiScanner-1.0.0-android-armeabi-v7a.apk) |
+| `SenPaiScanner-1.0.0-android-universal.apk` | 67.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/SenPaiScanner-1.0.0-android-universal.apk) |
+| `SenPaiScanner-1.0.0-cli-windows-amd64.exe` | 32.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/SenPaiScanner-1.0.0-cli-windows-amd64.exe) |
+| `SenPaiScanner-1.0.0-cli-windows-arm64.exe` | 29.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/SenPaiScanner-1.0.0-cli-windows-arm64.exe) |
+| `SenPaiScanner-1.0.0-gui-macos-apple-silicon.zip` | 14.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/SenPaiScanner-1.0.0-gui-macos-apple-silicon.zip) |
+| `SenPaiScanner-1.0.0-gui-macos-intel.zip` | 15.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/SenPaiScanner-1.0.0-gui-macos-intel.zip) |
+| `SenPaiScanner-1.0.0-gui-windows-amd64.zip` | 14.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/MatinSenPai/SenPaiScanner/SenPaiScanner-1.0.0-gui-windows-amd64.zip) |
 
 ---
 
@@ -353,11 +360,11 @@ sha256sum FILE_NAME
 
 ### center2055--OnionHop
 
-🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.7.5</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.7.5)
+🔗 [source](https://github.com/center2055/OnionHop) – [<code><small>v3.7.10</small></code>](https://github.com/center2055/OnionHop/releases/tag/v3.7.10)
 
 | File | Size | Download |
 |------|------|----------|
-| `OnionHop-CLI-Setup-3.7.5.exe` | 86.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.7.5.exe) |
+| `OnionHop-CLI-Setup-3.7.10.exe` | 86.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-CLI-Setup-3.7.10.exe) |
 | `OnionHop-Setup-v3.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.001) |
 | `OnionHop-Setup-v3.exe (part 2 of 2)` | 29.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/center2055/OnionHop/OnionHop-Setup-v3.exe.002) |
 
@@ -430,13 +437,15 @@ sha256sum FILE_NAME
 
 ### mirarr-app--network-checker
 
-🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.3.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.3.0)
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.5.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.5.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `app-arm64-v8a-release.apk` | 31.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
-| `rdnbenet-linux-x64.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
-| `rdnbenet-windows.zip` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
+| `app-arm64-v8a-release.apk` | 31.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
+| `app-armeabi-v7a-release.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
+| `app-release.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-release.apk) |
+| `rdnbenet-linux-x64.zip` | 24.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
+| `rdnbenet-windows.zip` | 20.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
 
 ---
 
@@ -444,11 +453,11 @@ sha256sum FILE_NAME
 
 ### telegramdesktop--tdesktop
 
-🔗 [source](https://github.com/telegramdesktop/tdesktop) – [<code><small>v7.0.5</small></code>](https://github.com/telegramdesktop/tdesktop/releases/tag/v7.0.5)
+🔗 [source](https://github.com/telegramdesktop/tdesktop) – [<code><small>v7.0.9</small></code>](https://github.com/telegramdesktop/tdesktop/releases/tag/v7.0.9)
 
 | File | Size | Download |
 |------|------|----------|
-| `tsetup-x64.7.0.5.exe` | 51.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/telegramdesktop/tdesktop/tsetup-x64.7.0.5.exe) |
+| `tsetup-x64.7.0.9.exe` | 51.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/telegramdesktop/tdesktop/tsetup-x64.7.0.9.exe) |
 
 ---
 
