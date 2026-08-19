@@ -202,12 +202,12 @@ sha256sum FILE_NAME
 
 ### DigneZzZ--v2raytun
 
-🔗 [source](https://github.com/DigneZzZ/v2raytun) – [<code><small>5.24.76</small></code>](https://github.com/DigneZzZ/v2raytun/releases/tag/5.24.76)
+🔗 [source](https://github.com/DigneZzZ/v2raytun) – [<code><small>5.25.81</small></code>](https://github.com/DigneZzZ/v2raytun/releases/tag/5.25.81)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2RayTun_Setup.exe` | 54.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/DigneZzZ/v2raytun/v2RayTun_Setup.exe) |
-| `v2RayTun_universal.apk` | 69.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/DigneZzZ/v2raytun/v2RayTun_universal.apk) |
+| `v2RayTun_Setup.exe` | 60.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/DigneZzZ/v2raytun/v2RayTun_Setup.exe) |
+| `v2RayTun_universal.apk` | 56.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/DigneZzZ/v2raytun/v2RayTun_universal.apk) |
 
 ---
 
