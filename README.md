@@ -423,15 +423,15 @@ sha256sum FILE_NAME
 
 ### mirarr-app--network-checker
 
-🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.5.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.5.0)
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>1.6.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.6.0)
 
 | File | Size | Download |
 |------|------|----------|
 | `app-arm64-v8a-release.apk` | 31.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
-| `app-armeabi-v7a-release.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
-| `app-release.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-release.apk) |
-| `rdnbenet-linux-x64.zip` | 24.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
-| `rdnbenet-windows.zip` | 20.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
+| `app-armeabi-v7a-release.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-armeabi-v7a-release.apk) |
+| `app-release.apk` | 53.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-release.apk) |
+| `rdnbenet-linux-x64.zip` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-linux-x64.zip) |
+| `rdnbenet-windows.zip` | 21.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
 
 ---
 
