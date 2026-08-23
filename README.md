@@ -453,11 +453,11 @@ sha256sum FILE_NAME
 
 ### telegramdesktop--tdesktop
 
-🔗 [source](https://github.com/telegramdesktop/tdesktop) – [<code><small>v7.1.0</small></code>](https://github.com/telegramdesktop/tdesktop/releases/tag/v7.1.0)
+🔗 [source](https://github.com/telegramdesktop/tdesktop) – [<code><small>v7.1.1</small></code>](https://github.com/telegramdesktop/tdesktop/releases/tag/v7.1.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `tsetup-x64.7.1.0.exe` | 52.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/telegramdesktop/tdesktop/tsetup-x64.7.1.0.exe) |
+| `tsetup-x64.7.1.1.exe` | 52.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/telegramdesktop/tdesktop/tsetup-x64.7.1.1.exe) |
 
 ---
 
