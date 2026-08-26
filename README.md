@@ -409,18 +409,6 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="maattyi--masterhttprelayvpngui"></div>
-
-### maattyi--MasterHttpRelayVpnGUI
-
-🔗 [source](https://github.com/maattyi/MasterHttpRelayVpnGUI) – [<code><small>tag2</small></code>](https://github.com/maattyi/MasterHttpRelayVpnGUI/releases/tag/tag2)
-
-| File | Size | Download |
-|------|------|----------|
-| `MasterRelayVPN-v1.1.0.zip` | 75.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/maattyi/MasterHttpRelayVpnGUI/MasterRelayVPN-v1.1.0.zip) |
-
----
-
 <div id="masterking32--masterdnsvpn"></div>
 
 ### masterking32--MasterDnsVPN
