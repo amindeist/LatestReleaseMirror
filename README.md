@@ -272,11 +272,12 @@ sha256sum FILE_NAME
 
 ### KNG7-P--Se7en-Pro
 
-🔗 [source](https://github.com/KNG7-P/Se7en-Pro) – [<code><small>v1.0.1</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.1)
+🔗 [source](https://github.com/KNG7-P/Se7en-Pro) – [<code><small>v1.0.3</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `Se7enPro_Setup_1.0.1.exe` | 71.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/Se7enPro_Setup_1.0.1.exe) |
+| `Se7enPro_Setup_v1.0.3_x64.exe` | 76.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/Se7enPro_Setup_v1.0.3_x64.exe) |
+| `Se7enPro_Setup_v1.0.3_x86.exe` | 72.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/Se7enPro_Setup_v1.0.3_x86.exe) |
 
 ---
 
