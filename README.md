@@ -246,7 +246,7 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-desktop
 
-🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>4.1.2</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/4.1.2)
+🔗 [source](https://github.com/Happ-proxy/happ-desktop) – [<code><small>4.1.3</small></code>](https://github.com/Happ-proxy/happ-desktop/releases/tag/4.1.3)
 
 | File | Size | Download |
 |------|------|----------|
