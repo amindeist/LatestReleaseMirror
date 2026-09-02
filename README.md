@@ -285,16 +285,15 @@ sha256sum FILE_NAME
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.23.2606</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.23.2606)
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.24.2709</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.24.2709)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.23.2606_android_arm64-v8a.apk` | 53.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_android_arm64-v8a.apk) |
-| `karing_1.2.23.2606_android_armeabi-v7a.apk` | 53.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_android_armeabi-v7a.apk) |
-| `karing_1.2.23.2606_android_arm.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_android_arm.apk.001) |
-| `karing_1.2.23.2606_android_arm.apk (part 2 of 2)` | 38.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_android_arm.apk.002) |
-| `karing_1.2.23.2606_windows_x64.exe` | 44.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_windows_x64.exe) |
-| `karing_1.2.23.2606_windows_x64.zip` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.23.2606_windows_x64.zip) |
+| `karing_1.2.24.2709_android_arm.apk` | 90.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.24.2709_android_arm.apk) |
+| `karing_1.2.24.2709_android_arm64-v8a.apk` | 53.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.24.2709_android_arm64-v8a.apk) |
+| `karing_1.2.24.2709_android_armeabi-v7a.apk` | 53.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.24.2709_android_armeabi-v7a.apk) |
+| `karing_1.2.24.2709_windows_x64.exe` | 44.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.24.2709_windows_x64.exe) |
+| `karing_1.2.24.2709_windows_x64.zip` | 64.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.24.2709_windows_x64.zip) |
 
 ---
 
@@ -454,12 +453,12 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.36</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.36)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.37</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.37)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.36.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.36.apk) |
-| `mhrv-rs-android-universal-v1.9.36.apk` | 45.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.36.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.37.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.37.apk) |
+| `mhrv-rs-android-universal-v1.9.37.apk` | 45.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.37.apk) |
 | `mhrv-rs-windows-amd64.zip` | 8.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 
 ---
