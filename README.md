@@ -437,18 +437,6 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="telegramdesktop--tdesktop"></div>
-
-### telegramdesktop--tdesktop
-
-🔗 [source](https://github.com/telegramdesktop/tdesktop) – [<code><small>v7.1.4</small></code>](https://github.com/telegramdesktop/tdesktop/releases/tag/v7.1.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `tsetup-x64.7.1.4.exe` | 52.8 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/telegramdesktop/tdesktop/tsetup-x64.7.1.4.exe) |
-
----
-
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
