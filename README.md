@@ -382,6 +382,23 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="davudsedft--purvpn"></div>
+
+### davudsedft--purvpn
+
+🔗 [source](https://github.com/davudsedft/purvpn) – [<code><small>15.6</small></code>](https://github.com/davudsedft/purvpn/releases/tag/15.6)
+
+| File | Size | Download |
+|------|------|----------|
+| `PurVpn-15.6-arm64-v8a.apk` | 55.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.6-arm64-v8a.apk) |
+| `PurVpn-15.6-armeabi-v7a.apk` | 48.9 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.6-armeabi-v7a.apk) |
+| `PurVpn-15.6-universal.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.6-universal.apk.001) |
+| `PurVpn-15.6-universal.apk (part 2 of 2)` | 29.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.6-universal.apk.002) |
+| `PurVpn-15.6-x86.apk` | 47.0 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.6-x86.apk) |
+| `PurVpn-15.6-x86_64.apk` | 46.5 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.6-x86_64.apk) |
+
+---
+
 <div id="frank-vpl--irbox"></div>
 
 ### frank-vpl--IRBox
