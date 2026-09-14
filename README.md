@@ -386,16 +386,16 @@ sha256sum FILE_NAME
 
 ### davudsedft--purvpn
 
-🔗 [source](https://github.com/davudsedft/purvpn) – [<code><small>15.7</small></code>](https://github.com/davudsedft/purvpn/releases/tag/15.7)
+🔗 [source](https://github.com/davudsedft/purvpn) – [<code><small>15.8</small></code>](https://github.com/davudsedft/purvpn/releases/tag/15.8)
 
 | File | Size | Download |
 |------|------|----------|
-| `PurVpn-15.7-arm64-v8a.apk` | 55.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.7-arm64-v8a.apk) |
-| `PurVpn-15.7-armeabi-v7a.apk` | 49.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.7-armeabi-v7a.apk) |
-| `PurVpn-15.7-universal.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.7-universal.apk.001) |
-| `PurVpn-15.7-universal.apk (part 2 of 2)` | 38.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.7-universal.apk.002) |
-| `PurVpn-15.7-x86.apk` | 51.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.7-x86.apk) |
-| `PurVpn-15.7-x86_64.apk` | 50.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.7-x86_64.apk) |
+| `PurVpn-15.8-arm64-v8a.apk` | 55.7 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.8-arm64-v8a.apk) |
+| `PurVpn-15.8-armeabi-v7a.apk` | 49.2 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.8-armeabi-v7a.apk) |
+| `PurVpn-15.8-universal.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.8-universal.apk.001) |
+| `PurVpn-15.8-universal.apk (part 2 of 2)` | 38.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.8-universal.apk.002) |
+| `PurVpn-15.8-x86.apk` | 51.3 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.8-x86.apk) |
+| `PurVpn-15.8-x86_64.apk` | 50.6 MB | [⬇️ Download](https://raw.githubusercontent.com/amindeist/LatestReleaseMirror/main/releases/davudsedft/purvpn/PurVpn-15.8-x86_64.apk) |
 
 ---
 
