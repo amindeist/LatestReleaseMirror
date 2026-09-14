@@ -2,6 +2,6 @@
   "tag": "v1.2.25.2802",
   "status": "stable",
   "published_at": "2026-09-10T02:20:39Z",
-  "filter_pattern": ".apk|.exe|.zip",
-  "updated_at": "2026-09-13T16:10:04Z"
+  "filter_pattern": "karing_1.2.19.2203_android_arm|karing_1.2.19.2203_windows_x64",
+  "updated_at": "2026-09-14T04:43:50Z"
 }
