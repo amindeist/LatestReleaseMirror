@@ -233,7 +233,7 @@ sha256sum FILE_NAME
 
 ### Happ-proxy--happ-android
 
-🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>4.3.0</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/4.3.0)
+🔗 [source](https://github.com/Happ-proxy/happ-android) – [<code><small>4.4.1</small></code>](https://github.com/Happ-proxy/happ-android/releases/tag/4.4.1)
 
 | File | Size | Download |
 |------|------|----------|
